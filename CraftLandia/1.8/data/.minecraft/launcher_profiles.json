@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "Macrosoft#CL": {
+      "name": "Macrosoft#CL",
+      "lastVersionId": "1.5.2-CraftLandia",
+      "launcherVisibilityOnGameClose": "esconder lançador e reabri-la quando o jogo está fechado"
+    },
+    "CraftLandia": {
+      "name": "CraftLandia",
+      "lastVersionId": "1.5.2-CraftLandia",
+      "launcherVisibilityOnGameClose": "esconder lançador e reabri-la quando o jogo está fechado"
+    }
+  },
+  "selectedProfile": "Macrosoft#CL",
+  "clientToken": "80ce50bb-e035-4db5-a2fa-53de5a8428c5",
+  "authenticationDatabase": {
+
+  }
+}
