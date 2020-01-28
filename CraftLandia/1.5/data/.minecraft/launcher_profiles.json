@@ -11,8 +11,5 @@
       "launcherVisibilityOnGameClose": "esconder lançador e reabri-la quando o jogo está fechado"
     }
   },
-  "selectedProfile": "Macrosoft#CL",
-  "authenticationDatabase": {
-
-  }
+  "selectedProfile": "Macrosoft#CL"
 }

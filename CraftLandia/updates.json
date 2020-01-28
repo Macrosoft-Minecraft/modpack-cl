@@ -2226,7 +2226,7 @@
             {
                 "file": "./1.8/data/.minecraft/launcher_profiles.json",
                 "hash": "19ebd2e29d3e08d2792f22142698687b",
-                "force": true
+                "force": false
             },
             {
                 "file": "./1.8/data/.minecraft/libraries/com/mumfrey/liteloader/1.8/liteloader-1.8.jar",
