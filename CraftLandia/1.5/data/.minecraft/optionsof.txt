@@ -1,5 +1,5 @@
 ofRenderDistanceFine:128
-ofLimitFramerateFine:40
+ofLimitFramerateFine:0
 ofFogType:1
 ofFogStart:0.8
 ofMipmapLevel:0
@@ -10,7 +10,7 @@ ofOcclusionFancy:false
 ofSmoothFps:false
 ofSmoothWorld:false
 ofAoLevel:1.0
-ofClouds:0
+ofClouds:2
 ofCloudsHeight:0.0
 ofTrees:0
 ofGrass:0
@@ -43,7 +43,7 @@ ofSky:true
 ofStars:true
 ofSunMoon:true
 ofChunkUpdates:1
-ofChunkLoading:0
+ofChunkLoading:1
 ofChunkUpdatesDynamic:false
 ofTime:0
 ofClearWater:false

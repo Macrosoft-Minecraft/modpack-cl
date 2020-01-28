@@ -10,12 +10,12 @@ particles:2
 bobView:true
 anaglyph3d:false
 advancedOpengl:false
-fpsLimit:1
+fpsLimit:0
 difficulty:2
 fancyGraphics:true
 ao:0
 clouds:false
-skin:Faithful-32x-1.5.zip
+skin:Macrosoft.zip
 lastServer:
 lang:pt_BR
 chatVisibility:0
