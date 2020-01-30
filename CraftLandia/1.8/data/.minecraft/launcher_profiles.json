@@ -1,7 +1,7 @@
 {
   "profiles": {
-    "Macrosoft#CL": {
-      "name": "Macrosoft#CL",
+    "Macrosoft®": {
+      "name": "Macrosoft®",
       "lastVersionId": "1.8-CraftLandia",
       "launcherVisibilityOnGameClose": "esconder lançador e reabri-la quando o jogo está fechado"
     },
@@ -11,5 +11,5 @@
       "launcherVisibilityOnGameClose": "esconder lançador e reabri-la quando o jogo está fechado"
     }
   },
-  "selectedProfile": "Macrosoft#CL"
+  "selectedProfile": "Macrosoft®"
 }
