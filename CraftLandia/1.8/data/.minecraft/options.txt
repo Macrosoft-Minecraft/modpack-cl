@@ -89,7 +89,7 @@ key_key.hotbar.9:10
 key_of.key.zoom:46
 key_Autofish GUI:47
 key_key.macros:41
-key_key.macro_override:0
+key_key.macro_override:56
 soundCategory_master:1.0
 soundCategory_music:1.0
 soundCategory_record:1.0

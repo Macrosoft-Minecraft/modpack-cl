@@ -212,20 +212,17 @@ script.warn.permissions.enabled=0
 #
 
 # KEY_T
-Macro[20].Macro=$${chat}$$
+Macro[20].Macro=$${chat;}$$
 Macro[20].Control=1
 
-# KEY_RCONTROL
-Macro[157].Macro=$${run(macrosoftmenu)}$$
-
 # KEY_HOME
-Macro[199].Macro=$${run(macrosoftmenu)}$$
+Macro[199].Macro=$${run(menu);}$$
 
 # EVENT_ONJOINGAME
 Macro[1000].Macro=$${event}$$
 
 # EVENT_ONCHAT
-Macro[1001].Macro=$${event(autologin0)}$$
+Macro[1001].Macro=$${event(onchat);}$$
 
 # EVENT_ONHEALTHCHANGE
 Macro[1002].Macro=$${event}$$
